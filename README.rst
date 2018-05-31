@@ -1,5 +1,5 @@
 ==========================
-Aerospike Django Cache Backend
+Aerospike & Django Cache Backend
 ==========================
 
 A cache backend for Django using the Aerospike key-value store server.
